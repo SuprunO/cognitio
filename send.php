@@ -18,7 +18,7 @@ mail ($to, $subject, $msg, $mailheaders);
 
 	$mess= "Уважаемый $name, ваше сообщение было успешно отправленно.<br>"; 
 
- echo "<center><p class="text">$mess</p><br>";
+ echo '<center><p class="text">'.$mess.'</p><br>';
    
 }
 ?>
