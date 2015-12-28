@@ -13,7 +13,11 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
+<<<<<<< HEAD
 		font-size: 90%;
+=======
+		font-size: 100%;
+>>>>>>> 1e3025060692d3510d875a0b5e6a1efa917dd682
 		font: inherit;
 		vertical-align: baseline;
 	}
@@ -1804,7 +1808,11 @@
 		height: 100%;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
+<<<<<<< HEAD
 		font-size: 14pt;
+=======
+		font-size: 18pt;
+>>>>>>> 1e3025060692d3510d875a0b5e6a1efa917dd682
 		line-height: 1.75em;
 		color: #39454b;
 		letter-spacing: 0.5px;
@@ -1824,7 +1832,11 @@
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
+<<<<<<< HEAD
 		font-size: 14pt;
+=======
+		font-size: 18pt;
+>>>>>>> 1e3025060692d3510d875a0b5e6a1efa917dd682
 		line-height: 1.75em;
 		color: #39454b;
 		letter-spacing: 0.5px;
